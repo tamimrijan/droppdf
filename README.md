@@ -173,7 +173,7 @@ The normal mode reads real text, not images. For scanned PDFs you need the hybri
 
 ## Credits
 
-- Created and maintained by **Tamim** xD
+- Created and maintained by **Tamim** (me) 😜
 - Built on top of [OpenDataLoader PDF](https://github.com/opendataloader-project/opendataloader-pdf) (Apache-2.0). This project is not affiliated with the OpenDataLoader team, it's just a small helper to make it easier to use.
 - Official docs: https://opendataloader.org/docs/quick-start-python
 
