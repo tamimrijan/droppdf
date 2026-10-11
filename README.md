@@ -115,8 +115,6 @@ After a conversion you get a small menu:
 <img width="1290" height="541" alt="image" src="https://github.com/user-attachments/assets/bd055bbb-538e-4551-a2a7-bcbd41b3c8a6" />
 <img width="721" height="336" alt="image" src="https://github.com/user-attachments/assets/726ea908-eca2-4868-9ea4-e99e92bdd70d" />
 
-> Tip: add a real screenshot here later with `![screenshot](screenshot.png)`.
-
 ---
 
 ## How it works
@@ -150,7 +148,7 @@ When you open the `.bat` files, Windows may show a security warning like this:
 - They were downloaded from the internet, so Windows asks before running them
 
 **What you can do**
-1. **Read the code first.** A `.bat` file is just text. Right click it, choose **Edit** (or open it in Notepad), and check what it does. Nothing is hidden.
+1. **Read the code first.** `.bat` file is just text. Right click it, choose **Edit** (or open it in Notepad), and check what it does. Nothing is hidden.
 2. Only download the files from this official repo: https://github.com/tamimrijan/droppdf
 3. Click **Run** to continue.
 4. Don't want to see this warning every time? Untick **Always ask before opening this file** before clicking Run.
