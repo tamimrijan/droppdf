@@ -184,7 +184,3 @@ The normal mode reads real text, not images. For scanned PDFs you need the hybri
 Found a bug or have an idea? Open an issue or send a pull request. Ideas welcome: page range option, image on/off toggle, batch folder mode.
 
 ---
-
-## License
-
-MIT License. Add a `LICENSE` file to your repo (GitHub can create one for you when you click **Add file > Create new file** and type `LICENSE`).
