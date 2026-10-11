@@ -182,5 +182,3 @@ The normal mode reads real text, not images. For scanned PDFs you need the hybri
 ## Contributing
 
 Found a bug or have an idea? Open an issue or send a pull request. Ideas welcome: page range option, image on/off toggle, batch folder mode.
-
----
