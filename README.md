@@ -112,6 +112,7 @@ After a conversion you get a small menu:
 
  >
 ```
+<img width="1290" height="541" alt="image" src="https://github.com/user-attachments/assets/bd055bbb-538e-4551-a2a7-bcbd41b3c8a6" />
 
 > Tip: add a real screenshot here later with `![screenshot](screenshot.png)`.
 
