@@ -135,6 +135,31 @@ python -m pip install -U opendataloader-pdf
 Nothing is hidden. The commands are printed on screen every time.
 
 ---
+## "Publisher could not be verified" warning
+
+When you open the `.bat` files, Windows may show a security warning like this:
+
+> **Open File - Security Warning**
+> The publisher could not be verified. Are you sure you want to run this software?
+
+**Don't worry, this is normal.** Windows shows it for every file that is not digitally signed, and signing costs money, so most small open-source tools don't have it. It doesn't mean the file is a virus.
+
+**Why it happens**
+- The `.bat` files are plain script files, not signed by a company
+- They were downloaded from the internet, so Windows asks before running them
+
+**What you can do**
+1. **Read the code first.** A `.bat` file is just text. Right click it, choose **Edit** (or open it in Notepad), and check what it does. Nothing is hidden.
+2. Only download the files from this official repo: https://github.com/tamimrijan/droppdf
+3. Click **Run** to continue.
+4. Don't want to see this warning every time? Untick **Always ask before opening this file** before clicking Run.
+
+**If you see a blue "Windows protected your PC" screen instead**
+Click **More info**, then **Run anyway**.
+
+> What these files do: `install_opendataloader.bat` checks Python and Java and runs `python -m pip install -U opendataloader-pdf`. `pdf_convert.bat` runs `opendataloader-pdf` on the PDF you choose. That's it.
+
+---
 
 ## Troubleshooting
 
