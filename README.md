@@ -113,6 +113,7 @@ After a conversion you get a small menu:
  >
 ```
 <img width="1290" height="541" alt="image" src="https://github.com/user-attachments/assets/bd055bbb-538e-4551-a2a7-bcbd41b3c8a6" />
+<img width="721" height="336" alt="image" src="https://github.com/user-attachments/assets/726ea908-eca2-4868-9ea4-e99e92bdd70d" />
 
 > Tip: add a real screenshot here later with `![screenshot](screenshot.png)`.
 
@@ -158,6 +159,7 @@ When you open the `.bat` files, Windows may show a security warning like this:
 Click **More info**, then **Run anyway**.
 
 > What these files do: `install_opendataloader.bat` checks Python and Java and runs `python -m pip install -U opendataloader-pdf`. `pdf_convert.bat` runs `opendataloader-pdf` on the PDF you choose. That's it.
+<img width="595" height="397" alt="image" src="https://github.com/user-attachments/assets/f8347fcf-8d55-482f-b44c-63991051d935" />
 
 ---
 
